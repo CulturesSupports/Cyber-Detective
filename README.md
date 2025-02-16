@@ -28,3 +28,6 @@ go back to profile page settings after confirmed run the static.yml and select s
 
 
 then it will run inside repository and after forked the repository 
+
+
+/ each profile needs to obtain own workflow run to manage cut out error loading of github pages
