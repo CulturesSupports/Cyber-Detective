@@ -20,7 +20,7 @@ We Designed a Terminal Window to make it appear as hacker tool
 
 
 
-go to github actions /  Start a workflow  and run a html 5 workflow with static.yml
+go to github actions /  Start a workflow  and run a html 5 workflow with `static.yml`
 
 
 
