@@ -14,7 +14,7 @@ We Designed a Terminal Window to make it appear as hacker tool
 
 
 
-
+--------------------
 
 
 
@@ -24,7 +24,7 @@ go to github actions /  Start a workflow  and run a html 5 workflow with `static
 
 
 
-go back to profile page settings and select show the repository url 
+go back to profile page settings after confirmed run the static.yml and select show the repository url 
 
 
-then it will run inside repository
+then it will run inside repository and after forked the repository 
